@@ -1,0 +1,8 @@
+[1]	platforma.polsl.pl/rau2. 2013.
+[2]	Anna Annak. Symfonia C++. Oficyna Kalimach. 1999.
+[3]	Jerzy Grębosz. Symfonia C++. Oficyna Kalimach. 1999.
+[4]	Tomasz Maciejewski. Symfonia D++. Oficyna Kalimach. 2003.
+[5]	Tomasz Maciejewski. Symfonia C++. Oficyna Kalimach. 1999.
+[6]	Marcin Michalak, Karolina Nurzyńska, Adam Świtoński. Detection of human eye components on the basis of multispectral imaging. Journal of Medical Informatics and Technologies, Vol. 19, pp.: 41-47, 2012.
+[7]	Karolina Nurzyńska. Substitute Contours Method for Object Reconstruction from Parallel Contours. Proc. of 38th Annual Conference on Teaching and Learning through Gaming and Simulation, Vol. 1, str. 183 – 189, 2008.
+[8]	Kaoru Seto, Karolina Nurzynska, Mamoru Kubo, Kn-ichiro Muramoto, Touru Shiina. Classification of snow particles using image processing. IEICE Technical Report.2009.
